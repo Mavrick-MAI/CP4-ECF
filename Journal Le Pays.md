@@ -3,7 +3,7 @@
 
 ## Sommaire
 
-1. [[#Introduction]]
+1. [Introduction](#Introduction)
 2. [[#Présentation du journal « Le Pays »]]
 3. [[#Pourquoi ce projet ?]]
 4. [[#Contraintes]]
