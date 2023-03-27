@@ -4,12 +4,12 @@
 ## Sommaire
 
 1. [Introduction](#Introduction)
-2. [[#Présentation du journal « Le Pays »]]
-3. [[#Pourquoi ce projet ?]]
-4. [[#Contraintes]]
-5. [[#Persona]]
-6. [[#Story-map]]
-7. [[#Arborescence du site]]
+2. [Présentation du journal « Le Pays »](#Présentation du journal « Le Pays »)
+3. [#Pourquoi ce projet ?](#Pourquoi ce projet ?)
+4. [#Contraintes](#Contraintes)
+5. [#Persona](#Persona)
+6. [#Story-map](#Story-map)
+7. [#Arborescence du site](#Arborescence du site)
 
 
 ## Introduction
