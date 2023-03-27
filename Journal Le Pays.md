@@ -4,8 +4,8 @@
 ## Sommaire
 
 1. [Introduction](#Introduction)
-2. [Présentation du journal « Le Pays »](#Présentation du journal « Le Pays »)
-3. [#Pourquoi ce projet ?](#Pourquoi ce projet ?)
+2. [Présentation du journal « Le Pays »](#Présentation%20du%20journal%20«%20Le%20Pays%20»)
+3. [Pourquoi ce projet ?](#Pourquoi%20ce%20projet%20?)
 4. [#Contraintes](#Contraintes)
 5. [#Persona](#Persona)
 6. [#Story-map](#Story-map)
