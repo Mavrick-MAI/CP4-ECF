@@ -5,7 +5,7 @@
 
 1. [Introduction](#Introduction)
 2. [Présentation du journal « Le Pays »](#presentation-du-journal-«-le-pays-»)
-3. [Pourquoi ce projet ?](#pourquoi-ce-projet-?)
+3. [Pourquoi ce projet](#pourquoi-ce-projet)
 4. [Contraintes](#Contraintes)
 5. [Persona](#Persona)
 6. [Story-map](#Story-map)
@@ -22,7 +22,7 @@ Dans un désir de modernisation, le journal local « Le Pays » souhaite se mo
 Le journal « Le Pays » est un journal au format papier,  relayant l’actualité locale ainsi que les prochaines activités sportives et culturelles du pays.
 
 
-## Pourquoi ce projet ?
+## Pourquoi ce projet
 
 Afin de toucher un public de lecteur plus jeune et plus large, le journal « Le Pays » souhaite créer un site vitrine relayant les informations de sa version papier.
 
