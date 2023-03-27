@@ -3,10 +3,13 @@
 
 ## Sommaire
 
-1. Introduction
-2. Présentation du journal « Le Pays »
-3. Pourquoi ce projet ?
-4. Contraintes
+1. [[#Introduction]]
+2. [[#Présentation du journal « Le Pays »]]
+3. [[#Pourquoi ce projet ?]]
+4. [[#Contraintes]]
+5. [[#Persona]]
+6. [[#Story-map]]
+7. [[#Arborescence du site]]
 
 
 ## Introduction
@@ -58,9 +61,9 @@ Raphaël est passioné par la Nouvelle-Calédonie ainsi que de son histoire. Il 
 
 ## Story-map
 
-![[Pasted image 20230328091639.png]]
+![[Story-map.png]]
 
 
 ## Arborescence du site
 
-![[Pasted image 20230328085125.png]]
+![[Arborescence.png]]
