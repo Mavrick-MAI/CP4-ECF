@@ -61,7 +61,7 @@ Raphaël est passioné par la Nouvelle-Calédonie ainsi que de son histoire. Il 
 
 ## Story-map
 
-![[Story-map.png]]
+![](img_cdc/Story-map.png?raw=true)
 
 
 ## Arborescence du site
