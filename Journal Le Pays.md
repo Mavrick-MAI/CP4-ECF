@@ -6,10 +6,10 @@
 1. [Introduction](#Introduction)
 2. [Présentation du journal « Le Pays »](#Présentation%20du%20journal%20«%20Le%20Pays%20»)
 3. [Pourquoi ce projet ?](#Pourquoi%20ce%20projet%20?)
-4. [#Contraintes](#Contraintes)
-5. [#Persona](#Persona)
-6. [#Story-map](#Story-map)
-7. [#Arborescence du site](#Arborescence du site)
+4. [Contraintes](#Contraintes)
+5. [Persona](#Persona)
+6. [Story-map](#Story-map)
+7. [Arborescence du site](#Arborescence%20du%20site)
 
 
 ## Introduction
