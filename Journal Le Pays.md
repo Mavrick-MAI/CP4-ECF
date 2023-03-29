@@ -89,4 +89,4 @@ Raphaël est passioné par la Nouvelle-Calédonie ainsi que de son histoire. Il 
 
 ### Page d'un évènement
 
-![](img_cdc/page_evenement_Le-Pays.png?raw=true)
+![](img_cdc/page_evenement_Le-Pays.PNG?raw=true)
