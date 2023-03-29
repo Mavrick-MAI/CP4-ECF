@@ -10,7 +10,7 @@
 5. [Persona](#Persona)
 6. [Story-map](#Story-map)
 7. [Arborescence du site](#arborescence-du-site)
-8. [Maquettes Wireframe](#maquette-wireframe)
+8. [Maquettes Wireframe](#maquettes-wireframe)
 
 
 ## <u>Introduction</u>
@@ -73,20 +73,20 @@ Raphaël est passioné par la Nouvelle-Calédonie ainsi que de son histoire. Il 
 
 ### Page d'accueil
 
-![[accueil_Le-Pays.png]]
+![](img_cdc/accueil_Le-Pays.png?raw=true)
 
 ### Page de la liste des articles
 
-![[liste_article_Le-Pays.png]]
+![](img_cdc/liste_article_Le-Pays.png?raw=true)
 
 ### Page d'un article
 
-![[page_article_Le-Pays.png]]
+![](img_cdc/page_article_Le-Pays.png?raw=true)
 
 ### Page de la liste des évènements
 
-![[liste_evenement_Le-Pays.png]]
+![](img_cdc/liste_evenement_Le-Pays.png?raw=true)
 
 ### Page d'un évènement
 
-![[page_evenement_Le-Pays.png]]
+![](img_cdc/page_evenement_Le-Pays.png?raw=true)
