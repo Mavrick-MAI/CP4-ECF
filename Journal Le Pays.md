@@ -10,26 +10,27 @@
 5. [Persona](#Persona)
 6. [Story-map](#Story-map)
 7. [Arborescence du site](#arborescence-du-site)
+8. [Maquettes Wireframe](#maquette-wireframe)
 
 
-## Introduction
+## <u>Introduction</u>
 
 Dans un désir de modernisation, le journal local « Le Pays » souhaite se moderniser grâce à un site vitrine relayant les informations de la version papier.
 
 
-## Presentation du journal
+## <u>Presentation du journal</u>
 
 Le journal « Le Pays » est un journal au format papier,  relayant l’actualité locale ainsi que les prochaines activités sportives et culturelles du pays.
 
 
-## Pourquoi ce projet
+## <u>Pourquoi ce projet</u>
 
 Afin de toucher un public de lecteur plus jeune et plus large, le journal « Le Pays » souhaite créer un site vitrine relayant les informations de sa version papier.
 
 L’objectif principal du site est d’informer et de présenter les informations du jour.
 
 
-## Contraintes
+## <u>Contraintes</u>
 
 - Site simple d’utilisation et agréable à la lecture
 - Articles faciles à trouver et à consulter
@@ -38,7 +39,7 @@ L’objectif principal du site est d’informer et de présenter les information
 - Thème personnalisé
 
 
-## Persona
+## <u>Persona</u>
 
 ### Françoise Lambert
 
@@ -59,11 +60,33 @@ Intérêts : L'histoire de la Nouvelle-Calédonie, la géopolitique, la musique
 Raphaël est passioné par la Nouvelle-Calédonie ainsi que de son histoire. Il aime être informé des événements actuels et passés qui se déroulent dans le pays. Etant une personne connectée, il préfére pouvoir consulter les informations sur son téléphone.
 
 
-## Story-map
+## <u>Story-map</u>
 
 ![](img_cdc/Story-map.png?raw=true)
 
 
-## Arborescence du site
+## <u>Arborescence du site</u>
 
 ![](img_cdc/Arborescence.png?raw=true)
+
+## <u>Maquettes wireframe</u>
+
+### Page d'accueil
+
+![[accueil_Le-Pays.png]]
+
+### Page de la liste des articles
+
+![[liste_article_Le-Pays.png]]
+
+### Page d'un article
+
+![[page_article_Le-Pays.png]]
+
+### Page de la liste des évènements
+
+![[liste_evenement_Le-Pays.png]]
+
+### Page d'un évènement
+
+![[page_evenement_Le-Pays.png]]
