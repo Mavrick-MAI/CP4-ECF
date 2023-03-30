@@ -1,0 +1,147 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "layout": {
+      "contentSize": "1183px"
+    },
+    "color": {
+      "palette": [
+        {
+          "slug": "lepays-yellow",
+          "color": "#F0DC7C",
+          "name": "Yellow"
+        },
+        {
+          "slug": "lepays-black",
+          "color": "#272727",
+          "name": "Black"
+        }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "'FjallaOne', sans-serif",
+          "slug": "fjalla",
+          "name": "Headings - FjallaOne",
+          "fontFace": [
+            {
+              "fontFamily": "'FjallaOne', sans-serif",
+              "fontWeight": "400",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": ["file:./assets/fonts/fjallaone/FjallaOne-Regular.ttf"]
+            }
+          ]
+        },
+        {
+          "fontFamily": "'PtSerif', sans-serif",
+          "slug": "ptserif",
+          "name": "Body - PtSerif",
+          "fontFace": [
+            {
+              "fontFamily": "'PtSerif', sans-serif",
+              "fontWeight": "400",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "src": ["file:./assets/fonts/pt_serif/PTSerif-Regular.ttf"]
+            }
+          ]
+        }
+      ]
+    },
+    "spacing": {
+      "margin": true,
+      "padding": true,
+      "units": ["px", "em", "rem", "vh", "vw", "%"]
+    },
+    "border": {
+      "radius": true,
+      "color": true,
+      "style": true,
+      "width": true
+    },
+    "dimensions": {
+      "minHeight": true
+    },
+    "custom": {
+      "typography": {
+        "font-size": {
+          "navigation": "font-size: clamp(0.5rem, 0.1479rem + 1.1268vw, 1.5rem);",
+          "heading-1": "font-size: clamp(1rem, 0.8239rem + 0.5634vw, 2rem);",
+          "heading-2": "font-size: clamp(1rem, 0.8239rem + 0.5634vw, 1.5rem);",
+          "post-info": "font-size: clamp(1rem, 0.8239rem + 0.5634vw, 1.5rem);",
+          "regular": "font-size: clamp(0.9rem, 0.7592rem + 0.4507vw, 1.3rem);"
+        }
+      }
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--lepays-yellow) !important",
+      "text": "var(--wp--preset--color--lepays-black) !important"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--ptserif)",
+      "fontSize": "var(--wp--custom--typography--font-size--regular)"
+    },
+    "elements": {
+      "h1": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--fjalla)",
+          "fontSize": "var(--wp--custom--typography--font-size--heading-1)",
+          "fontWeight": "800"
+        }
+      },
+      "h2": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--fjalla)",
+          "fontSize": "var(--wp--custom--typography--font-size--heading-2)",
+          "fontWeight": "800"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--lepays-black) !important"
+        }
+      }
+    },
+    "blocks": {
+      "core/page-list": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--fjalla)",
+          "fontSize": "var(--wp--custom--typography--font-size--navigation)",
+          "fontWeight": "600"
+        }
+      },
+      "core/post-title": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--fjalla)",
+          "fontSize": "var(--wp--custom--typography--font-size--heading-1)",
+          "fontWeight": "800"
+        }
+      },
+      "core/post-author-name": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--ptserif)",
+          "fontSize": "var(--wp--custom--typography--font-size--post-info)",
+          "fontWeight": "600"
+        }
+      },
+      "core/post-date": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--ptserif)",
+          "fontSize": "var(--wp--custom--typography--font-size--post-info)",
+          "fontWeight": "600"
+        }
+      },
+      "core/post-content": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--ptserif)",
+          "fontSize": "var(--wp--custom--typography--font-size--regular) !important"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "simple-blog-card",
+  "version": "1.0.3",
+  "description": "Simple Blog Card Block",
+  "main": "simpleblogcard-block.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build:simpleblogcard-block": "wp-scripts build src/simpleblogcard-block --output-path=dist",
+    "lint-js": "wp-scripts lint-js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katsushi Kawamori",
+  "license": "GPL-2.0-or-later",
+  "devDependencies": {
+    "@wordpress/scripts": "25.2.0"
+  },
+  "dependencies": {
+    "@wordpress/server-side-render": "^4.2.0"
+  }
+}
